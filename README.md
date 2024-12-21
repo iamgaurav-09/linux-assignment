@@ -2,6 +2,7 @@
 Q. Display the kernel name ?
 
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/19109f87-96c0-4240-8d0b-83c302863057" />
+
 Q. Display the current date and time ?
 
 <img width="158" alt="image" src="https://github.com/user-attachments/assets/44a513d4-5b96-42da-922f-4027a079dc9b" />
